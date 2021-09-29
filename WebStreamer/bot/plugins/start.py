@@ -12,6 +12,6 @@ async def start(_, m: Message):
                       [[
                             InlineKeyboardButton(
                                   f'{emoji.STAR} Source {emoji.STAR}',
-                                  url='https://github.com/EverythingSuckz/TG-FileStreamBot')
+                                  url='https://github.com/arullk5566/TG-FileStreamBot')
                         ]]
                   ))
